@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updatedAt": "2026-03-25T00:00:00Z",
+  "collections": [
+    {
+      "slug": "ai-papers-2025",
+      "name": "Top AI Research Papers 2025",
+      "description": "The most influential and cited papers in artificial intelligence, large language models, and machine learning published in 2025. Covers scaling, reasoning, multimodality, alignment, and agents.",
+      "author": "trelk-team",
+      "itemCount": 20,
+      "tags": ["ai", "research", "papers", "llm", "machine-learning"],
+      "icon": "flask-outline",
+      "updatedAt": "2026-03-25T00:00:00Z"
+    },
+    {
+      "slug": "learn-python",
+      "name": "Best Resources to Learn Python",
+      "description": "A curated collection of the best tutorials, documentation, videos, and repositories to learn Python from beginner to advanced. Includes official docs, YouTube courses, GitHub projects, and interactive platforms.",
+      "author": "trelk-team",
+      "itemCount": 20,
+      "tags": ["python", "programming", "tutorial", "beginner", "advanced"],
+      "icon": "code-slash-outline",
+      "updatedAt": "2026-03-25T00:00:00Z"
+    }
+  ]
+}

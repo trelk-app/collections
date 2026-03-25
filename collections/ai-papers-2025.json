@@ -1,0 +1,167 @@
+{
+  "name": "Top AI Research Papers 2025",
+  "description": "The most influential and cited papers in artificial intelligence, large language models, and machine learning published in 2025.",
+  "author": "trelk-team",
+  "items": [
+    {
+      "url": "https://arxiv.org/abs/2501.12948",
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+      "summary": "Introduces DeepSeek-R1, a model trained with large-scale reinforcement learning to develop reasoning capabilities without supervised fine-tuning, achieving performance comparable to OpenAI-o1 on math and coding benchmarks.",
+      "content_type": "paper",
+      "tags": ["reasoning", "reinforcement-learning", "llm"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.00663",
+      "title": "Titans: Learning to Memorize at Test Time",
+      "summary": "Proposes a new architecture that learns to memorize at test time, combining the efficiency of linear attention with long-term memory modules that can persist information across very long contexts.",
+      "content_type": "paper",
+      "tags": ["architecture", "memory", "attention"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.13189",
+      "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+      "summary": "Presents a sparse attention mechanism that is natively trainable and aligned with modern GPU hardware, enabling efficient processing of sequences up to 64K tokens without quality loss.",
+      "content_type": "paper",
+      "tags": ["attention", "efficiency", "sparse"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.14249",
+      "title": "LIMO: Less is More for Reasoning",
+      "summary": "Demonstrates that complex mathematical reasoning can be elicited with surprisingly few examples, achieving state-of-the-art results on competition-level math by fine-tuning on only 817 carefully curated samples.",
+      "content_type": "paper",
+      "tags": ["reasoning", "data-efficiency", "math"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.05795",
+      "title": "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?",
+      "summary": "Benchmarks frontier LLMs on real freelance software engineering tasks from Upwork, evaluating whether AI can complete professional coding jobs end-to-end.",
+      "content_type": "paper",
+      "tags": ["agents", "software-engineering", "benchmark"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.18837",
+      "title": "OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models",
+      "summary": "A unified framework for generating lifelike human animation from any combination of input signals including audio, text, and pose, achieving state-of-the-art results in video generation.",
+      "content_type": "paper",
+      "tags": ["video-generation", "human-animation", "multimodal"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.11089",
+      "title": "Multimodal Large Language Models: A Survey",
+      "summary": "Comprehensive survey covering the landscape of multimodal LLMs in 2025, including architectures, training paradigms, evaluation benchmarks, and applications across vision, audio, and video.",
+      "content_type": "paper",
+      "tags": ["survey", "multimodal", "llm"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.09136",
+      "title": "Scaling Laws for Precision in LLM Training and Inference",
+      "summary": "Establishes scaling laws for numerical precision in both training and inference of large language models, providing guidelines for optimal quantization strategies at different model scales.",
+      "content_type": "paper",
+      "tags": ["scaling-laws", "quantization", "efficiency"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.06786",
+      "title": "Chain-of-Thought Reasoning Without Prompting",
+      "summary": "Shows that chain-of-thought reasoning can emerge naturally in LLMs during decoding without any special prompting, by altering the decoding strategy to explore alternative top-k token paths.",
+      "content_type": "paper",
+      "tags": ["reasoning", "chain-of-thought", "decoding"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.06252",
+      "title": "Distilling System 2 into System 1",
+      "summary": "Proposes methods to distill the slow, deliberate reasoning of System 2 (chain-of-thought) into fast, intuitive System 1 responses, making models both accurate and efficient at inference time.",
+      "content_type": "paper",
+      "tags": ["distillation", "reasoning", "efficiency"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.03373",
+      "title": "Reward Hacking in RLHF: Causes, Detection, and Mitigation",
+      "summary": "Systematically analyzes reward hacking in reinforcement learning from human feedback, identifying failure modes where models exploit reward signals without genuinely improving alignment.",
+      "content_type": "paper",
+      "tags": ["alignment", "rlhf", "safety"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.03262",
+      "title": "Constitutional AI 2.0: Democratic Input for AI Behavior",
+      "summary": "Extends constitutional AI with democratic processes for determining AI behavior, incorporating diverse human values through structured deliberation and voting mechanisms.",
+      "content_type": "paper",
+      "tags": ["alignment", "safety", "constitutional-ai"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.15631",
+      "title": "KV-Cache Compression for Long-Context LLMs: A Survey",
+      "summary": "Surveys techniques for compressing key-value caches in transformer models to enable efficient long-context processing, covering eviction, quantization, merging, and architectural approaches.",
+      "content_type": "paper",
+      "tags": ["efficiency", "kv-cache", "long-context"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.01243",
+      "title": "ToolGen: Unified Tool Retrieval and Calling via Generation",
+      "summary": "Unifies tool retrieval and calling into a single generative framework, enabling LLMs to discover and use tools from large repositories without separate retrieval systems.",
+      "content_type": "paper",
+      "tags": ["agents", "tools", "function-calling"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.08606",
+      "title": "World Models for Autonomous Driving: A Survey",
+      "summary": "Reviews world models applied to autonomous driving, covering how neural networks learn predictive models of driving environments for planning, simulation, and safety verification.",
+      "content_type": "paper",
+      "tags": ["world-models", "autonomous-driving", "survey"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.05707",
+      "title": "Mixture of Experts Meets Mixture of Modalities",
+      "summary": "Proposes an architecture that combines mixture-of-experts routing with multimodal inputs, enabling efficient specialization where different experts handle different modality combinations.",
+      "content_type": "paper",
+      "tags": ["moe", "multimodal", "architecture"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.12018",
+      "title": "Test-Time Training for LLMs: A New Paradigm",
+      "summary": "Introduces test-time training for language models where the model adapts its weights at inference using the test input itself, achieving significant improvements on distribution-shifted tasks.",
+      "content_type": "paper",
+      "tags": ["test-time-training", "adaptation", "paradigm"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.11223",
+      "title": "Synthetic Data Generation at Scale: Best Practices and Pitfalls",
+      "summary": "Provides a comprehensive guide to generating synthetic training data for LLMs, covering quality filters, diversity metrics, decontamination, and when synthetic data helps vs hurts.",
+      "content_type": "paper",
+      "tags": ["synthetic-data", "training", "data-quality"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.04322",
+      "title": "Small Language Models: A State-of-the-Art Review",
+      "summary": "Reviews the rapidly advancing field of small language models (1-7B parameters), analyzing distillation techniques, architecture innovations, and deployment strategies for edge devices.",
+      "content_type": "paper",
+      "tags": ["small-models", "edge-ai", "distillation"],
+      "language": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.08313",
+      "title": "Agentic AI: A Survey of Foundation Model Agents",
+      "summary": "Comprehensive survey of AI agents built on foundation models, covering planning, tool use, memory, multi-agent collaboration, and real-world deployment challenges.",
+      "content_type": "paper",
+      "tags": ["agents", "survey", "foundation-models"],
+      "language": "en"
+    }
+  ]
+}

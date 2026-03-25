@@ -1,0 +1,167 @@
+{
+  "name": "Best Resources to Learn Python",
+  "description": "A curated collection of the best tutorials, documentation, videos, and repositories to learn Python from beginner to advanced.",
+  "author": "trelk-team",
+  "items": [
+    {
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "title": "The Official Python Tutorial",
+      "summary": "The official Python documentation tutorial. Covers all the basics from data structures to modules, I/O, and error handling. The definitive starting point for any Python learner.",
+      "content_type": "documentation",
+      "tags": ["beginner", "official", "tutorial"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+      "title": "Learn Python — Full Course for Beginners (freeCodeCamp)",
+      "summary": "A 4.5-hour comprehensive Python course by freeCodeCamp covering variables, data types, functions, loops, classes, and building projects. Over 40 million views.",
+      "content_type": "video",
+      "tags": ["beginner", "video", "free"],
+      "language": "en"
+    },
+    {
+      "url": "https://automatetheboringstuff.com/",
+      "title": "Automate the Boring Stuff with Python",
+      "summary": "A practical programming book for total beginners. Teaches Python by building real automation projects: web scraping, spreadsheets, email, PDF manipulation, and more.",
+      "content_type": "article",
+      "tags": ["beginner", "practical", "automation"],
+      "language": "en"
+    },
+    {
+      "url": "https://github.com/TheAlgorithms/Python",
+      "title": "The Algorithms — Python",
+      "summary": "A GitHub repository with implementations of all major algorithms and data structures in Python. Over 180k stars. Excellent reference for learning algorithms through readable Python code.",
+      "content_type": "documentation",
+      "tags": ["algorithms", "data-structures", "github"],
+      "language": "en"
+    },
+    {
+      "url": "https://realpython.com/python-beginner-tips/",
+      "title": "11 Beginner Tips for Learning Python",
+      "summary": "Practical advice for Python beginners: how to set up your environment, avoid common mistakes, use the REPL effectively, and build a learning habit that sticks.",
+      "content_type": "article",
+      "tags": ["beginner", "tips", "learning"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HGOBQPFzWKo",
+      "title": "Intermediate Python Programming (freeCodeCamp)",
+      "summary": "6-hour intermediate Python course covering list comprehensions, generators, decorators, threading, multiprocessing, function arguments, and OOP patterns.",
+      "content_type": "video",
+      "tags": ["intermediate", "video", "free"],
+      "language": "en"
+    },
+    {
+      "url": "https://github.com/satwikkansal/wtfpython",
+      "title": "What the f*ck Python!",
+      "summary": "A collection of surprising and tricky Python snippets that reveal the language's hidden behaviors. Great for deepening your understanding of how Python actually works under the hood.",
+      "content_type": "documentation",
+      "tags": ["intermediate", "quirks", "github"],
+      "language": "en"
+    },
+    {
+      "url": "https://docs.python.org/3/library/asyncio.html",
+      "title": "asyncio — Asynchronous I/O in Python",
+      "summary": "Official documentation for Python's asyncio library. Covers coroutines, tasks, event loops, streams, and synchronization primitives for concurrent programming.",
+      "content_type": "documentation",
+      "tags": ["advanced", "async", "concurrency"],
+      "language": "en"
+    },
+    {
+      "url": "https://realpython.com/python-type-checking/",
+      "title": "Python Type Checking Guide",
+      "summary": "Comprehensive guide to Python's type hints system: annotations, mypy, typing module, generics, protocols, and how to gradually add types to existing codebases.",
+      "content_type": "article",
+      "tags": ["intermediate", "type-hints", "mypy"],
+      "language": "en"
+    },
+    {
+      "url": "https://github.com/vinta/awesome-python",
+      "title": "Awesome Python",
+      "summary": "A curated list of awesome Python frameworks, libraries, and resources. Over 220k stars on GitHub. The go-to directory for discovering Python tools for any domain.",
+      "content_type": "documentation",
+      "tags": ["resources", "libraries", "github"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8DvywoWv6fI",
+      "title": "Python for Data Science — Full Course (freeCodeCamp)",
+      "summary": "12-hour course covering NumPy, Pandas, Matplotlib, and Scikit-learn. Hands-on projects with real datasets. Perfect for learning Python's data science ecosystem.",
+      "content_type": "video",
+      "tags": ["data-science", "pandas", "numpy"],
+      "language": "en"
+    },
+    {
+      "url": "https://fastapi.tiangolo.com/tutorial/",
+      "title": "FastAPI Tutorial — Official Documentation",
+      "summary": "Step-by-step tutorial for building modern APIs with FastAPI. Covers path parameters, request bodies, validation, authentication, databases, and deployment.",
+      "content_type": "documentation",
+      "tags": ["web", "api", "fastapi"],
+      "language": "en"
+    },
+    {
+      "url": "https://github.com/jackfrued/Python-100-Days",
+      "title": "Python 100 Days — From Novice to Professional",
+      "summary": "A structured 100-day learning path for Python. Covers basics, OOP, databases, web development, data analysis, machine learning, and DevOps. Over 150k GitHub stars.",
+      "content_type": "documentation",
+      "tags": ["structured", "comprehensive", "github"],
+      "language": "en"
+    },
+    {
+      "url": "https://realpython.com/python-testing-with-pytest/",
+      "title": "Effective Python Testing with Pytest",
+      "summary": "Learn to write robust tests in Python using pytest. Covers fixtures, parametrize, mocking, test organization, and CI integration for professional Python development.",
+      "content_type": "article",
+      "tags": ["testing", "pytest", "best-practices"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qbLc5a9jdXo",
+      "title": "Caleb Curry — Python Full Course for Beginners",
+      "summary": "A beginner-friendly 12-hour Python course with clear explanations, practical examples, and exercises. Covers everything from installation to object-oriented programming.",
+      "content_type": "video",
+      "tags": ["beginner", "video", "comprehensive"],
+      "language": "en"
+    },
+    {
+      "url": "https://github.com/faif/python-patterns",
+      "title": "Python Design Patterns",
+      "summary": "A collection of design patterns and idioms implemented in Python. Covers creational, structural, behavioral, and Python-specific patterns with clear examples.",
+      "content_type": "documentation",
+      "tags": ["design-patterns", "advanced", "github"],
+      "language": "en"
+    },
+    {
+      "url": "https://book.pythontips.com/en/latest/",
+      "title": "Intermediate Python (book)",
+      "summary": "Free online book covering intermediate Python topics: generators, decorators, context managers, collections, coroutines, and Pythonic idioms that separate beginners from professionals.",
+      "content_type": "article",
+      "tags": ["intermediate", "book", "free"],
+      "language": "en"
+    },
+    {
+      "url": "https://realpython.com/python-virtual-environments-a-primer/",
+      "title": "Python Virtual Environments: A Primer",
+      "summary": "Everything you need to know about Python virtual environments: venv, virtualenv, conda, Poetry, and why isolating dependencies is essential for every Python project.",
+      "content_type": "article",
+      "tags": ["tooling", "environments", "best-practices"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZDa-Z5JzLYM",
+      "title": "Object-Oriented Programming with Python (freeCodeCamp)",
+      "summary": "A focused 2-hour course on OOP in Python. Covers classes, inheritance, polymorphism, encapsulation, and SOLID principles with practical game-building examples.",
+      "content_type": "video",
+      "tags": ["oop", "intermediate", "video"],
+      "language": "en"
+    },
+    {
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "title": "System Design Primer (with Python examples)",
+      "summary": "Learn how to design large-scale systems with Python examples. Covers scalability, caching, load balancing, databases, and microservices. Over 270k GitHub stars.",
+      "content_type": "documentation",
+      "tags": ["system-design", "advanced", "architecture"],
+      "language": "en"
+    }
+  ]
+}
