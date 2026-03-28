@@ -1,0 +1,56 @@
+name: Submit a Collection
+description: Submit a curated reading list to the Trelk community
+title: "[Collection] "
+labels: ["new-collection"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the Trelk community! Fill in the details below and paste the collection JSON exported from the app.
+
+  - type: input
+    id: collection-name
+    attributes:
+      label: Collection Name
+      placeholder: e.g. "Machine Learning Fundamentals"
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: Your name or handle
+      placeholder: e.g. "Jane Doe"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A short description of what this collection covers and who it's for
+      placeholder: "A curated list of essential papers and articles for getting started with ML..."
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated tags to help people discover this collection
+      placeholder: "machine-learning, deep-learning, papers"
+
+  - type: textarea
+    id: collection-json
+    attributes:
+      label: Collection JSON
+      description: Paste the JSON exported from Trelk (Collection screen > Share icon > Share as JSON)
+      render: json
+      placeholder: |
+        {
+          "name": "...",
+          "items": [...]
+        }
+    validations:
+      required: true
