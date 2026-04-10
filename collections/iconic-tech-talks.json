@@ -1,0 +1,151 @@
+{
+  "name": "Iconic Tech Talks That Changed Computing",
+  "description": "The talks every developer should see at least once. From Engelbart's Mother of All Demos to Bret Victor's visions of the future, these talks shaped how we think about computing, programming, and what software could be.",
+  "author": "trelk-team",
+  "items": [
+    {
+      "url": "https://www.youtube.com/watch?v=B6rKUf9DWRI",
+      "title": "The Mother of All Demos (1968)",
+      "summary": "Douglas Engelbart's legendary 1968 demo that introduced the mouse, hypertext, video conferencing, real-time collaborative editing, and most of modern computing — decades before they existed elsewhere.",
+      "content_type": "video",
+      "tags": ["engelbart", "history", "computing"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PUv66718DII",
+      "title": "Inventing on Principle",
+      "summary": "Bret Victor's manifesto for creators: have a principle worth fighting for, then dedicate your work to it. Includes jaw-dropping live coding demos that feel like magic.",
+      "content_type": "video",
+      "tags": ["bret-victor", "principles", "creativity"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8pTEmbeENF4",
+      "title": "The Future of Programming",
+      "summary": "Bret Victor performs a 1973 talk about the future of programming — and points out that almost none of those bold ideas survived. A devastating critique of how little we've actually progressed.",
+      "content_type": "video",
+      "tags": ["bret-victor", "history", "programming"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oKg1hTOQXoY",
+      "title": "The Computer Revolution Hasn't Happened Yet",
+      "summary": "Alan Kay's 1997 OOPSLA keynote arguing that computing is still in its infancy and we're missing the real revolution. From the inventor of Smalltalk and the godfather of OOP.",
+      "content_type": "video",
+      "tags": ["alan-kay", "computing", "philosophy"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LKtk3HCgTa8",
+      "title": "Simple Made Easy",
+      "summary": "Rich Hickey, creator of Clojure, draws a sharp distinction between 'simple' and 'easy'. Why complexity is a choice — and why we keep choosing it.",
+      "content_type": "video",
+      "tags": ["rich-hickey", "simplicity", "design"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f84n5oFoZBc",
+      "title": "Hammock Driven Development",
+      "summary": "Rich Hickey on the lost art of thinking before coding. Why your best problem-solving happens away from the keyboard — preferably in a hammock.",
+      "content_type": "video",
+      "tags": ["rich-hickey", "thinking", "process"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vN4U5FqrOdQ",
+      "title": "Steve Jobs Introduces the iPhone (2007)",
+      "summary": "The most important product demo of the 21st century. Watch the moment a phone, an iPod, and an internet communicator became one device.",
+      "content_type": "video",
+      "tags": ["steve-jobs", "apple", "history"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4XpnKHJAok8",
+      "title": "Linus Torvalds on Git",
+      "summary": "Linus's famously blunt 2007 Google Tech Talk explaining why Git exists, why centralized version control is broken, and why most VCSes are 'stupid'.",
+      "content_type": "video",
+      "tags": ["linus-torvalds", "git", "version-control"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+      "title": "Let's Build GPT From Scratch",
+      "summary": "Andrej Karpathy builds a transformer-based language model from first principles, in code, in two hours. The clearest explanation of how LLMs actually work.",
+      "content_type": "video",
+      "tags": ["karpathy", "ai", "transformers"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lKXe3HUG2l4",
+      "title": "The Mess We're In",
+      "summary": "Joe Armstrong, co-creator of Erlang, on why software has become an unmaintainable mess and what we might do about it. Funny, deep, slightly tragic.",
+      "content_type": "video",
+      "tags": ["erlang", "joe-armstrong", "complexity"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_ahvzDzKdB0",
+      "title": "Growing a Language",
+      "summary": "Guy Steele's famous OOPSLA 1998 keynote — delivered in monosyllables for the first half, then growing his vocabulary as he goes. A meta-demonstration of language design.",
+      "content_type": "video",
+      "tags": ["guy-steele", "language-design", "classic"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.destroyallsoftware.com/talks/wat",
+      "title": "Wat",
+      "summary": "Gary Bernhardt's legendary 5-minute talk on the absurdities of JavaScript and Ruby type coercion. The most quoted lightning talk in tech history.",
+      "content_type": "video",
+      "tags": ["javascript", "humor", "lightning-talk"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pW-SOdj4Kkk",
+      "title": "Preventing the Collapse of Civilization",
+      "summary": "Game designer Jonathan Blow's provocative talk arguing that software complexity is making us forget how to build things, and that civilizations have collapsed this way before.",
+      "content_type": "video",
+      "tags": ["jonathan-blow", "complexity", "philosophy"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8bZh5LMaSmE",
+      "title": "All the Little Things",
+      "summary": "Sandi Metz takes a long, ugly method and refactors it live into something beautiful. The best practical refactoring talk you'll ever watch.",
+      "content_type": "video",
+      "tags": ["sandi-metz", "refactoring", "ruby"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Sg4U4r_AgJU",
+      "title": "Brian Kernighan on C, Unix, AWK and AMPL",
+      "summary": "Brian Kernighan — co-author of K&R C — tells stories from Bell Labs about the creation of Unix, C, and the tools that built modern computing.",
+      "content_type": "video",
+      "tags": ["kernighan", "unix", "history"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=g_BVH8_F3LE",
+      "title": "The Silver Bullet Syndrome",
+      "summary": "Hadi Hariri on how our industry constantly chases new frameworks and technologies, looking for the silver bullet that will save us from having to think.",
+      "content_type": "video",
+      "tags": ["hadi-hariri", "industry", "frameworks"],
+      "language": "en"
+    },
+    {
+      "url": "https://vimeo.com/9270320",
+      "title": "What We Actually Know About Software Development",
+      "summary": "Greg Wilson presents the actual evidence-based research on what makes software teams effective. Spoiler: most of what you 'know' is folklore.",
+      "content_type": "video",
+      "tags": ["greg-wilson", "research", "evidence"],
+      "language": "en"
+    },
+    {
+      "url": "https://vimeo.com/64895205",
+      "title": "Stop Drawing Dead Fish",
+      "summary": "Bret Victor argues that we've been making art tools wrong for decades. A live demo of what dynamic, responsive creative tools could look like.",
+      "content_type": "video",
+      "tags": ["bret-victor", "tools", "creativity"],
+      "language": "en"
+    }
+  ]
+}

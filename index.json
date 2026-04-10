@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T00:00:00Z",
+  "updatedAt": "2026-04-10T00:00:00Z",
   "collections": [
     {
       "slug": "ai-papers-2025",
@@ -21,6 +21,36 @@
       "tags": ["python", "programming", "tutorial", "beginner", "advanced"],
       "icon": "code-slash-outline",
       "updatedAt": "2026-03-25T00:00:00Z"
+    },
+    {
+      "slug": "programmer-essays",
+      "name": "Programmer Essays Worth Re-reading",
+      "description": "Timeless writing from the giants of software craft. Essays that have shaped how generations of developers think about code, abstractions, careers, and the nature of programming itself. Worth reading once, then again every few years.",
+      "author": "trelk-team",
+      "itemCount": 18,
+      "tags": ["programming", "essays", "classics", "software-engineering"],
+      "icon": "book-outline",
+      "updatedAt": "2026-04-10T00:00:00Z"
+    },
+    {
+      "slug": "iconic-tech-talks",
+      "name": "Iconic Tech Talks That Changed Computing",
+      "description": "The talks every developer should see at least once. From Engelbart's Mother of All Demos to Bret Victor's visions of the future, these talks shaped how we think about computing, programming, and what software could be.",
+      "author": "trelk-team",
+      "itemCount": 18,
+      "tags": ["talks", "video", "computing-history", "inspiration"],
+      "icon": "videocam-outline",
+      "updatedAt": "2026-04-10T00:00:00Z"
+    },
+    {
+      "slug": "wikipedia-rabbit-holes",
+      "name": "Wikipedia Rabbit Holes for Curious Minds",
+      "description": "Strange, wonderful, and slightly haunting corners of human knowledge. Mysterious places, impossible coincidences, ancient machines, and the people who shaped history without ever appearing in textbooks. The kind of articles that keep you reading at 2 AM.",
+      "author": "trelk-team",
+      "itemCount": 18,
+      "tags": ["wikipedia", "history", "science", "mysteries", "curiosities"],
+      "icon": "compass-outline",
+      "updatedAt": "2026-04-10T00:00:00Z"
     }
   ]
 }

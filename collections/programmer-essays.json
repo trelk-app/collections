@@ -1,0 +1,151 @@
+{
+  "name": "Programmer Essays Worth Re-reading",
+  "description": "Timeless writing from the giants of software craft. Essays that have shaped how generations of developers think about code, abstractions, careers, and the nature of programming itself. Worth reading once, then again every few years.",
+  "author": "trelk-team",
+  "items": [
+    {
+      "url": "http://www.paulgraham.com/hp.html",
+      "title": "Hackers and Painters",
+      "summary": "Paul Graham's classic essay arguing that hackers are makers, like painters or architects, and that good software is built the way good art is made — with taste and iteration.",
+      "content_type": "article",
+      "tags": ["paul-graham", "philosophy", "craft"],
+      "language": "en"
+    },
+    {
+      "url": "http://www.paulgraham.com/makersschedule.html",
+      "title": "Maker's Schedule, Manager's Schedule",
+      "summary": "Why a single meeting can ruin an entire afternoon for a programmer. The two schedules of creative work and management work are fundamentally incompatible.",
+      "content_type": "article",
+      "tags": ["paul-graham", "productivity", "management"],
+      "language": "en"
+    },
+    {
+      "url": "http://www.paulgraham.com/greatwork.html",
+      "title": "How to Do Great Work",
+      "summary": "Paul Graham's distilled advice on doing great work in any field — from picking the right thing to work on, to staying curious, to surviving the hard middle.",
+      "content_type": "article",
+      "tags": ["paul-graham", "career", "advice"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/",
+      "title": "The Joel Test: 12 Steps to Better Code",
+      "summary": "A simple, irresponsible, sloppy test to rate the quality of a software team. Twelve yes/no questions that, decades later, still expose dysfunction in most engineering orgs.",
+      "content_type": "article",
+      "tags": ["joel-spolsky", "engineering-management", "team"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/",
+      "title": "Things You Should Never Do, Part I",
+      "summary": "Joel Spolsky on the single worst strategic mistake any software company can make: rewriting the code from scratch. Required reading before any 'big rewrite' meeting.",
+      "content_type": "article",
+      "tags": ["joel-spolsky", "rewrites", "engineering-strategy"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/",
+      "title": "The Law of Leaky Abstractions",
+      "summary": "All non-trivial abstractions, to some degree, are leaky. Why TCP, file systems, and ORMs all eventually betray you — and why you still need to understand what's underneath.",
+      "content_type": "article",
+      "tags": ["joel-spolsky", "abstractions", "fundamentals"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/",
+      "title": "The Absolute Minimum Every Developer Must Know About Unicode",
+      "summary": "Joel Spolsky's no-nonsense explanation of character encodings, UTF-8, code points, and why 'plain text' is a lie. If you've ever seen a mojibake, read this.",
+      "content_type": "article",
+      "tags": ["joel-spolsky", "unicode", "fundamentals"],
+      "language": "en"
+    },
+    {
+      "url": "https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html",
+      "title": "Execution in the Kingdom of Nouns",
+      "summary": "Steve Yegge's brilliant rant on why Java forces you to wrap every verb in a noun. A hilarious, sharp critique of OOP-only languages — and a love letter to functional programming.",
+      "content_type": "article",
+      "tags": ["steve-yegge", "java", "language-design"],
+      "language": "en"
+    },
+    {
+      "url": "https://gist.github.com/chitchcock/1281611",
+      "title": "Stevey's Google Platforms Rant",
+      "summary": "Steve Yegge's accidentally-public 2011 rant about why Amazon understands platforms and Google doesn't. The most influential internal memo ever leaked from a tech giant.",
+      "content_type": "article",
+      "tags": ["steve-yegge", "platforms", "architecture"],
+      "language": "en"
+    },
+    {
+      "url": "https://norvig.com/21-days.html",
+      "title": "Teach Yourself Programming in Ten Years",
+      "summary": "Peter Norvig's gentle takedown of every '21 days' programming book. Real expertise takes a decade of deliberate practice — here's how to actually do it.",
+      "content_type": "article",
+      "tags": ["peter-norvig", "learning", "career"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
+      "title": "Don't Call Yourself A Programmer, And Other Career Advice",
+      "summary": "Patrick McKenzie's career advice for engineers who want to be valued. Most software is mundane CRUD, your job is to solve business problems, and you're worth far more than you think.",
+      "content_type": "article",
+      "tags": ["patrick-mckenzie", "career", "negotiation"],
+      "language": "en"
+    },
+    {
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "title": "The Wrong Abstraction",
+      "summary": "Sandi Metz on why duplication is far cheaper than the wrong abstraction. The seven steps from premature DRY to a tangled, untested mess that nobody can change.",
+      "content_type": "article",
+      "tags": ["sandi-metz", "refactoring", "abstractions"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.cs.unc.edu/techreports/86-020.pdf",
+      "title": "No Silver Bullet — Essence and Accident in Software Engineering",
+      "summary": "Fred Brooks' 1986 paper arguing there will be no single development that improves productivity 10x. Forty years later, still the most cited essay in software engineering.",
+      "content_type": "paper",
+      "tags": ["fred-brooks", "classics", "software-engineering"],
+      "language": "en"
+    },
+    {
+      "url": "https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf",
+      "title": "Go To Statement Considered Harmful",
+      "summary": "Edsger Dijkstra's 1968 letter that started the structured programming revolution. The reason we have if/else and loops instead of goto.",
+      "content_type": "paper",
+      "tags": ["dijkstra", "classics", "language-design"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html",
+      "title": "On the Cruelty of Really Teaching Computing Science",
+      "summary": "Dijkstra's controversial 1988 essay arguing CS should be taught as a branch of mathematics, not engineering. Provocative, brilliant, still relevant.",
+      "content_type": "article",
+      "tags": ["dijkstra", "education", "philosophy"],
+      "language": "en"
+    },
+    {
+      "url": "https://idlewords.com/talks/website_obesity.htm",
+      "title": "The Website Obesity Crisis",
+      "summary": "Maciej Cegłowski on why modern websites have become bloated, slow, and user-hostile. A funny, scathing call for the web to lose some weight.",
+      "content_type": "article",
+      "tags": ["web", "performance", "design"],
+      "language": "en"
+    },
+    {
+      "url": "https://danluu.com/file-consistency/",
+      "title": "Files are Fraught with Peril",
+      "summary": "Dan Luu on why writing data to disk reliably is far harder than you think. Every database author knows this. You should too.",
+      "content_type": "article",
+      "tags": ["dan-luu", "systems", "databases"],
+      "language": "en"
+    },
+    {
+      "url": "https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf",
+      "title": "Why Functional Programming Matters",
+      "summary": "John Hughes' 1990 paper that made the case for higher-order functions and lazy evaluation. Still the best introduction to why FP isn't just academic.",
+      "content_type": "paper",
+      "tags": ["functional-programming", "classics", "haskell"],
+      "language": "en"
+    }
+  ]
+}

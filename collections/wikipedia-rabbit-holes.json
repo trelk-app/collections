@@ -1,0 +1,151 @@
+{
+  "name": "Wikipedia Rabbit Holes for Curious Minds",
+  "description": "Strange, wonderful, and slightly haunting corners of human knowledge. Mysterious places, impossible coincidences, ancient machines, and the people who shaped history without ever appearing in textbooks. The kind of articles that keep you reading at 2 AM.",
+  "author": "trelk-team",
+  "items": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+      "title": "The Antikythera Mechanism",
+      "summary": "A 2,000-year-old Greek analog computer that predicted astronomical positions and eclipses. Lost to the sea, rediscovered in 1901, and still revealing its secrets to modern scientists.",
+      "content_type": "article",
+      "tags": ["history", "science", "mystery"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+      "title": "The Voynich Manuscript",
+      "summary": "A 15th-century book written in an unknown script and language, illustrated with imaginary plants and astronomical diagrams. Six centuries later, nobody has decoded a single word.",
+      "content_type": "article",
+      "tags": ["history", "mystery", "language"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident",
+      "title": "Dyatlov Pass Incident",
+      "summary": "In 1959, nine experienced hikers died under bizarre circumstances in the Russian Ural Mountains — tents cut from the inside, bodies scattered, some with crushing injuries but no external wounds.",
+      "content_type": "article",
+      "tags": ["mystery", "history", "unsolved"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hashima_Island",
+      "title": "Hashima Island",
+      "summary": "Once Japan's most densely populated place, this concrete island was abandoned overnight in 1974 when the coal mines closed. Now a haunting time capsule of mid-century industrial life.",
+      "content_type": "article",
+      "tags": ["history", "abandoned", "japan"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Centralia,_Pennsylvania",
+      "title": "Centralia, Pennsylvania",
+      "summary": "A coal mine fire ignited under this small Pennsylvania town in 1962. It's still burning today, and could keep burning for another 250 years. The town is mostly gone.",
+      "content_type": "article",
+      "tags": ["history", "abandoned", "fire"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stanislav_Petrov",
+      "title": "Stanislav Petrov — The Man Who Saved the World",
+      "summary": "On September 26, 1983, a Soviet officer's gut decision not to report what looked like an incoming US nuclear strike prevented World War III. He was reprimanded for it.",
+      "content_type": "article",
+      "tags": ["history", "cold-war", "heroes"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tsutomu_Yamaguchi",
+      "title": "Tsutomu Yamaguchi",
+      "summary": "The only officially recognized survivor of both atomic bombings — Hiroshima on August 6, then Nagasaki on August 9, 1945. He lived to be 93.",
+      "content_type": "article",
+      "tags": ["history", "ww2", "survival"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phineas_Gage",
+      "title": "Phineas Gage",
+      "summary": "In 1848, a metal rod blasted clean through this railroad worker's skull. He survived — but his personality changed dramatically, becoming the most famous case study in neuroscience.",
+      "content_type": "article",
+      "tags": ["history", "neuroscience", "medical"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cicada_3301",
+      "title": "Cicada 3301",
+      "summary": "A mysterious organization that posted elaborate cryptographic puzzles online from 2012 to 2014, recruiting unknown participants for unknown purposes. Nobody knows who they were or what they wanted.",
+      "content_type": "article",
+      "tags": ["mystery", "cryptography", "internet"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tunguska_event",
+      "title": "The Tunguska Event",
+      "summary": "In 1908, an explosion in remote Siberia flattened 80 million trees over 2,150 square kilometers. No crater. No clear cause. Still debated more than a century later.",
+      "content_type": "article",
+      "tags": ["mystery", "science", "history"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Project_A119",
+      "title": "Project A119 — A Plan to Nuke the Moon",
+      "summary": "In 1958, the US Air Force seriously planned to detonate a nuclear bomb on the Moon as a Cold War show of force. It was very nearly carried out. Carl Sagan worked on it.",
+      "content_type": "article",
+      "tags": ["history", "cold-war", "space"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox",
+      "title": "The Banach–Tarski Paradox",
+      "summary": "A mathematical proof that you can cut a solid ball into a few pieces and reassemble them into two solid balls — each the same size as the original. Math is wild.",
+      "content_type": "article",
+      "tags": ["mathematics", "paradox", "mind-bending"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Toynbee_tiles",
+      "title": "Toynbee Tiles",
+      "summary": "Hundreds of mysterious linoleum tiles embedded in city streets across America and South America since the 1980s, all bearing the same cryptic message about Jupiter and the dead.",
+      "content_type": "article",
+      "tags": ["mystery", "art", "urban"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Codex_Gigas",
+      "title": "The Codex Gigas (Devil's Bible)",
+      "summary": "A 13th-century manuscript so large it requires two people to lift. Legend says a monk wrote it in a single night with the devil's help. Inside: a full-page portrait of Satan.",
+      "content_type": "article",
+      "tags": ["history", "books", "medieval"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emu_War",
+      "title": "The Great Emu War",
+      "summary": "In 1932, Australia declared war on emus. The military deployed machine guns. The emus won. This is real history.",
+      "content_type": "article",
+      "tags": ["history", "absurd", "australia"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roko%27s_basilisk",
+      "title": "Roko's Basilisk",
+      "summary": "A thought experiment from a rationalist forum so disturbing the moderator banned discussion of it. A future superintelligent AI that punishes those who didn't help create it. Probably nonsense. Maybe not.",
+      "content_type": "article",
+      "tags": ["philosophy", "ai", "thought-experiment"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mary_Anning",
+      "title": "Mary Anning",
+      "summary": "A working-class woman in 19th-century England who dug up the first ichthyosaur, the first plesiosaur, and helped invent paleontology — while being denied membership to scientific societies for being female.",
+      "content_type": "article",
+      "tags": ["science", "history", "paleontology"],
+      "language": "en"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bloop",
+      "title": "The Bloop",
+      "summary": "An ultra-low-frequency underwater sound detected by NOAA in 1997, louder than any known animal. For years it was unexplained. The truth is somehow even cooler than 'sea monster'.",
+      "content_type": "article",
+      "tags": ["mystery", "science", "ocean"],
+      "language": "en"
+    }
+  ]
+}
